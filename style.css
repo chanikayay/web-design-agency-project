@@ -59,6 +59,8 @@ footer {
 @media (max-width: 1300px) {
 .logo {
   width: 150px;
+  display: inline;
+
 }
 
 h1 {
