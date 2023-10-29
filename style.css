@@ -56,7 +56,7 @@ footer {
   width: 47%;
 }
 
-@media (max-width: 880px) {
+@media (max-width: 1300px) {
 .logo {
   width: 150px;
 }
