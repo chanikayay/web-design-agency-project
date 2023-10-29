@@ -64,19 +64,23 @@ footer {
 }
 
 h1 {
-  font-size: 2.5rem;
-}
-
-.card img {
-  width: 30%;
+  font-size: 3rem;
 }
 
 .card{
-width:100%}
-
+width:100%;
+display:block}
 .card-title {
 font-size: 1.5rem;
 }
+  
+.card img {
+  width: 100%;
+  display:inline;
+  object-fit:cover
+}
+
+
 
 .card-text {
   font-size: 1rem;
